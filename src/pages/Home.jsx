@@ -32,7 +32,7 @@ const Home = () => {
             <div>
               <img
                 className="w-full"
-                src="public/image2.png"
+                src="/image2.png"
                 alt="Collaboration illustration"
               />
             </div>
