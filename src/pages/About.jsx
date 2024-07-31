@@ -36,7 +36,7 @@ function About() {
             /> */}
             <img
               className="relative w-full xl:max-w-lg xl:mx-auto 2xl:origin-bottom 2xl:scale-110"
-              src="public/image1.png"
+              src="/image1.png"
               alt="Team Member"
             />
           </div>
